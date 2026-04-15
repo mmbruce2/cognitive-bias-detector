@@ -1,0 +1,1001 @@
+participant_id,bias_name,description,age_group,profession,prevalence_score,awareness,corrected_score
+P001,Confirmation Bias,Seeing information that confirms pre-existing beliefs,36-50,Tech,0.693,No,0.663
+P002,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Finance,0.759,No,0.729
+P003,Confirmation Bias,Seeing information that confirms pre-existing beliefs,65+,Tech,0.886,Yes,0.936
+P004,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Education,0.767,No,0.737
+P005,Confirmation Bias,Seeing information that confirms pre-existing beliefs,65+,Student,0.93,No,0.9
+P006,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Education,0.661,No,0.631
+P007,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Tech,1.0,Yes,1.0
+P008,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Education,0.816,Yes,0.866
+P009,Confirmation Bias,Seeing information that confirms pre-existing beliefs,36-50,Education,0.768,No,0.738
+P010,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Finance,0.643,Yes,0.693
+P011,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Education,0.825,No,0.795
+P012,Confirmation Bias,Seeing information that confirms pre-existing beliefs,51-65,Finance,0.767,No,0.737
+P013,Confirmation Bias,Seeing information that confirms pre-existing beliefs,51-65,Finance,0.648,No,0.618
+P014,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Student,0.984,No,0.954
+P015,Confirmation Bias,Seeing information that confirms pre-existing beliefs,65+,Healthcare,0.902,Yes,0.952
+P016,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Student,0.559,No,0.529
+P017,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Finance,0.83,Yes,0.88
+P018,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Education,0.872,No,0.842
+P019,Confirmation Bias,Seeing information that confirms pre-existing beliefs,36-50,Finance,0.662,No,0.632
+P020,Confirmation Bias,Seeing information that confirms pre-existing beliefs,51-65,Student,0.54,No,0.51
+P021,Confirmation Bias,Seeing information that confirms pre-existing beliefs,36-50,Healthcare,0.712,No,0.682
+P022,Confirmation Bias,Seeing information that confirms pre-existing beliefs,36-50,Other,0.678,No,0.648
+P023,Confirmation Bias,Seeing information that confirms pre-existing beliefs,51-65,Finance,0.665,Yes,0.715
+P024,Confirmation Bias,Seeing information that confirms pre-existing beliefs,51-65,Finance,0.424,Yes,0.474
+P025,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Healthcare,0.969,Yes,1.0
+P026,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Healthcare,0.823,No,0.793
+P027,Confirmation Bias,Seeing information that confirms pre-existing beliefs,51-65,Student,0.806,Yes,0.856
+P028,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Healthcare,0.862,No,0.832
+P029,Confirmation Bias,Seeing information that confirms pre-existing beliefs,36-50,Other,0.608,No,0.578
+P030,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Tech,0.802,Yes,0.852
+P031,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Tech,0.717,No,0.687
+P032,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Finance,0.71,Yes,0.76
+P033,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Healthcare,0.529,Yes,0.579
+P034,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Other,0.686,No,0.656
+P035,Confirmation Bias,Seeing information that confirms pre-existing beliefs,65+,Other,0.708,No,0.678
+P036,Confirmation Bias,Seeing information that confirms pre-existing beliefs,65+,Healthcare,0.685,No,0.655
+P037,Confirmation Bias,Seeing information that confirms pre-existing beliefs,51-65,Student,0.579,Yes,0.629
+P038,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Healthcare,0.748,Yes,0.798
+P039,Confirmation Bias,Seeing information that confirms pre-existing beliefs,36-50,Education,0.733,Yes,0.783
+P040,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Finance,0.731,No,0.701
+P041,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Tech,0.666,Yes,0.716
+P042,Confirmation Bias,Seeing information that confirms pre-existing beliefs,36-50,Education,0.674,No,0.644
+P043,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Student,1.0,No,0.97
+P044,Confirmation Bias,Seeing information that confirms pre-existing beliefs,51-65,Finance,0.345,Yes,0.395
+P045,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Other,0.665,No,0.635
+P046,Confirmation Bias,Seeing information that confirms pre-existing beliefs,26-35,Education,0.828,Yes,0.878
+P047,Confirmation Bias,Seeing information that confirms pre-existing beliefs,65+,Finance,0.844,Yes,0.894
+P048,Confirmation Bias,Seeing information that confirms pre-existing beliefs,65+,Finance,0.88,No,0.85
+P049,Confirmation Bias,Seeing information that confirms pre-existing beliefs,18-25,Other,0.832,No,0.802
+P050,Confirmation Bias,Seeing information that confirms pre-existing beliefs,36-50,Tech,0.58,No,0.55
+P001,Availability Heuristic,Overestimating importance of readily available information,65+,Finance,0.545,No,0.515
+P002,Availability Heuristic,Overestimating importance of readily available information,26-35,Tech,0.524,No,0.494
+P003,Availability Heuristic,Overestimating importance of readily available information,26-35,Tech,0.54,Yes,0.59
+P004,Availability Heuristic,Overestimating importance of readily available information,18-25,Finance,0.664,No,0.634
+P005,Availability Heuristic,Overestimating importance of readily available information,26-35,Other,0.571,No,0.541
+P006,Availability Heuristic,Overestimating importance of readily available information,36-50,Finance,0.595,Yes,0.645
+P007,Availability Heuristic,Overestimating importance of readily available information,18-25,Tech,0.546,No,0.516
+P008,Availability Heuristic,Overestimating importance of readily available information,65+,Student,0.705,No,0.675
+P009,Availability Heuristic,Overestimating importance of readily available information,36-50,Other,0.87,No,0.84
+P010,Availability Heuristic,Overestimating importance of readily available information,26-35,Healthcare,0.792,No,0.762
+P011,Availability Heuristic,Overestimating importance of readily available information,51-65,Other,0.546,No,0.516
+P012,Availability Heuristic,Overestimating importance of readily available information,51-65,Healthcare,0.914,No,0.884
+P013,Availability Heuristic,Overestimating importance of readily available information,18-25,Other,0.936,Yes,0.986
+P014,Availability Heuristic,Overestimating importance of readily available information,65+,Healthcare,1.0,No,0.97
+P015,Availability Heuristic,Overestimating importance of readily available information,26-35,Education,0.874,No,0.844
+P016,Availability Heuristic,Overestimating importance of readily available information,36-50,Tech,0.307,No,0.277
+P017,Availability Heuristic,Overestimating importance of readily available information,26-35,Student,1.0,No,0.97
+P018,Availability Heuristic,Overestimating importance of readily available information,65+,Other,0.716,No,0.686
+P019,Availability Heuristic,Overestimating importance of readily available information,51-65,Tech,0.728,Yes,0.778
+P020,Availability Heuristic,Overestimating importance of readily available information,36-50,Education,0.588,Yes,0.638
+P021,Availability Heuristic,Overestimating importance of readily available information,65+,Finance,0.671,Yes,0.721
+P022,Availability Heuristic,Overestimating importance of readily available information,36-50,Healthcare,0.836,No,0.806
+P023,Availability Heuristic,Overestimating importance of readily available information,65+,Healthcare,0.823,Yes,0.873
+P024,Availability Heuristic,Overestimating importance of readily available information,26-35,Education,0.408,No,0.378
+P025,Availability Heuristic,Overestimating importance of readily available information,51-65,Tech,0.479,Yes,0.529
+P026,Availability Heuristic,Overestimating importance of readily available information,26-35,Healthcare,0.516,No,0.486
+P027,Availability Heuristic,Overestimating importance of readily available information,18-25,Education,0.89,No,0.86
+P028,Availability Heuristic,Overestimating importance of readily available information,51-65,Student,0.766,No,0.736
+P029,Availability Heuristic,Overestimating importance of readily available information,18-25,Tech,0.696,Yes,0.746
+P030,Availability Heuristic,Overestimating importance of readily available information,51-65,Education,0.721,Yes,0.771
+P031,Availability Heuristic,Overestimating importance of readily available information,18-25,Healthcare,0.495,No,0.465
+P032,Availability Heuristic,Overestimating importance of readily available information,26-35,Other,1.0,Yes,1.0
+P033,Availability Heuristic,Overestimating importance of readily available information,65+,Education,0.743,Yes,0.793
+P034,Availability Heuristic,Overestimating importance of readily available information,65+,Finance,0.513,No,0.483
+P035,Availability Heuristic,Overestimating importance of readily available information,26-35,Healthcare,0.73,No,0.7
+P036,Availability Heuristic,Overestimating importance of readily available information,18-25,Other,0.738,Yes,0.788
+P037,Availability Heuristic,Overestimating importance of readily available information,18-25,Tech,0.553,No,0.523
+P038,Availability Heuristic,Overestimating importance of readily available information,26-35,Other,0.45,No,0.42
+P039,Availability Heuristic,Overestimating importance of readily available information,36-50,Tech,0.678,No,0.648
+P040,Availability Heuristic,Overestimating importance of readily available information,18-25,Healthcare,0.761,No,0.731
+P041,Availability Heuristic,Overestimating importance of readily available information,26-35,Other,0.724,No,0.694
+P042,Availability Heuristic,Overestimating importance of readily available information,65+,Healthcare,0.603,Yes,0.653
+P043,Availability Heuristic,Overestimating importance of readily available information,26-35,Finance,0.58,Yes,0.63
+P044,Availability Heuristic,Overestimating importance of readily available information,65+,Healthcare,0.898,No,0.868
+P045,Availability Heuristic,Overestimating importance of readily available information,18-25,Healthcare,0.577,No,0.547
+P046,Availability Heuristic,Overestimating importance of readily available information,18-25,Student,0.863,No,0.833
+P047,Availability Heuristic,Overestimating importance of readily available information,26-35,Student,0.783,No,0.753
+P048,Availability Heuristic,Overestimating importance of readily available information,26-35,Finance,0.74,No,0.71
+P049,Availability Heuristic,Overestimating importance of readily available information,51-65,Other,0.729,Yes,0.779
+P050,Availability Heuristic,Overestimating importance of readily available information,65+,Education,0.575,No,0.545
+P001,Anchoring Bias,Relying too heavily on the first piece of information encountered,36-50,Student,0.671,Yes,0.721
+P002,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Finance,0.984,No,0.954
+P003,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Finance,0.975,Yes,1.0
+P004,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Healthcare,0.868,Yes,0.918
+P005,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Healthcare,0.826,Yes,0.876
+P006,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Other,0.667,Yes,0.717
+P007,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Tech,0.713,No,0.683
+P008,Anchoring Bias,Relying too heavily on the first piece of information encountered,36-50,Education,0.815,No,0.785
+P009,Anchoring Bias,Relying too heavily on the first piece of information encountered,36-50,Healthcare,0.626,Yes,0.676
+P010,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Finance,0.72,Yes,0.77
+P011,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Other,0.306,No,0.276
+P012,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Healthcare,0.705,Yes,0.755
+P013,Anchoring Bias,Relying too heavily on the first piece of information encountered,51-65,Other,0.436,No,0.406
+P014,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Finance,0.729,No,0.699
+P015,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Finance,0.818,No,0.788
+P016,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Healthcare,1.0,No,0.97
+P017,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Tech,0.929,No,0.899
+P018,Anchoring Bias,Relying too heavily on the first piece of information encountered,51-65,Tech,0.739,Yes,0.789
+P019,Anchoring Bias,Relying too heavily on the first piece of information encountered,51-65,Education,0.662,Yes,0.712
+P020,Anchoring Bias,Relying too heavily on the first piece of information encountered,36-50,Student,0.613,No,0.583
+P021,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Finance,0.609,No,0.579
+P022,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Finance,0.759,Yes,0.809
+P023,Anchoring Bias,Relying too heavily on the first piece of information encountered,36-50,Tech,0.716,No,0.686
+P024,Anchoring Bias,Relying too heavily on the first piece of information encountered,51-65,Finance,0.725,No,0.695
+P025,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Tech,0.705,Yes,0.755
+P026,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Tech,0.72,No,0.69
+P027,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Healthcare,0.846,Yes,0.896
+P028,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Education,0.738,No,0.708
+P029,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Other,0.925,No,0.895
+P030,Anchoring Bias,Relying too heavily on the first piece of information encountered,36-50,Other,0.556,No,0.526
+P031,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Finance,0.685,Yes,0.735
+P032,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Other,0.507,No,0.477
+P033,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Tech,0.932,No,0.902
+P034,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Other,0.585,No,0.555
+P035,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Student,0.799,No,0.769
+P036,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Healthcare,0.736,No,0.706
+P037,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Student,0.574,No,0.544
+P038,Anchoring Bias,Relying too heavily on the first piece of information encountered,51-65,Finance,0.569,Yes,0.619
+P039,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Other,1.0,Yes,1.0
+P040,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Student,0.588,No,0.558
+P041,Anchoring Bias,Relying too heavily on the first piece of information encountered,51-65,Finance,0.826,Yes,0.876
+P042,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Tech,0.45,No,0.42
+P043,Anchoring Bias,Relying too heavily on the first piece of information encountered,51-65,Healthcare,0.754,No,0.724
+P044,Anchoring Bias,Relying too heavily on the first piece of information encountered,36-50,Student,0.671,No,0.641
+P045,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Student,0.611,No,0.581
+P046,Anchoring Bias,Relying too heavily on the first piece of information encountered,36-50,Education,0.641,No,0.611
+P047,Anchoring Bias,Relying too heavily on the first piece of information encountered,18-25,Healthcare,0.83,No,0.8
+P048,Anchoring Bias,Relying too heavily on the first piece of information encountered,26-35,Other,0.764,No,0.734
+P049,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Finance,0.556,Yes,0.606
+P050,Anchoring Bias,Relying too heavily on the first piece of information encountered,65+,Tech,0.757,Yes,0.807
+P001,Overconfidence Effect,Overestimating your own abilities or knowledge,18-25,Healthcare,0.935,No,0.905
+P002,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Finance,0.788,No,0.758
+P003,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Student,0.698,No,0.668
+P004,Overconfidence Effect,Overestimating your own abilities or knowledge,36-50,Tech,0.729,No,0.699
+P005,Overconfidence Effect,Overestimating your own abilities or knowledge,65+,Finance,0.947,Yes,0.997
+P006,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Healthcare,0.617,Yes,0.667
+P007,Overconfidence Effect,Overestimating your own abilities or knowledge,18-25,Healthcare,0.706,No,0.676
+P008,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Finance,0.631,No,0.601
+P009,Overconfidence Effect,Overestimating your own abilities or knowledge,18-25,Finance,1.0,No,0.97
+P010,Overconfidence Effect,Overestimating your own abilities or knowledge,18-25,Tech,0.773,No,0.743
+P011,Overconfidence Effect,Overestimating your own abilities or knowledge,36-50,Finance,0.666,No,0.636
+P012,Overconfidence Effect,Overestimating your own abilities or knowledge,65+,Student,0.878,No,0.848
+P013,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Finance,0.844,Yes,0.894
+P014,Overconfidence Effect,Overestimating your own abilities or knowledge,36-50,Other,0.673,No,0.643
+P015,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Finance,0.65,No,0.62
+P016,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Student,0.821,No,0.791
+P017,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Education,0.542,Yes,0.592
+P018,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Healthcare,0.697,No,0.667
+P019,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Other,0.888,No,0.858
+P020,Overconfidence Effect,Overestimating your own abilities or knowledge,65+,Tech,0.644,Yes,0.694
+P021,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Finance,0.747,No,0.717
+P022,Overconfidence Effect,Overestimating your own abilities or knowledge,36-50,Healthcare,0.883,No,0.853
+P023,Overconfidence Effect,Overestimating your own abilities or knowledge,36-50,Healthcare,0.629,Yes,0.679
+P024,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Student,0.717,Yes,0.767
+P025,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Education,0.831,No,0.801
+P026,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Healthcare,1.0,Yes,1.0
+P027,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Tech,0.886,Yes,0.936
+P028,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Finance,0.844,Yes,0.894
+P029,Overconfidence Effect,Overestimating your own abilities or knowledge,65+,Tech,0.96,No,0.93
+P030,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Other,0.608,No,0.578
+P031,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Finance,0.742,Yes,0.792
+P032,Overconfidence Effect,Overestimating your own abilities or knowledge,36-50,Tech,0.816,No,0.786
+P033,Overconfidence Effect,Overestimating your own abilities or knowledge,65+,Other,0.843,Yes,0.893
+P034,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Healthcare,0.488,No,0.458
+P035,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Healthcare,1.0,No,0.97
+P036,Overconfidence Effect,Overestimating your own abilities or knowledge,18-25,Tech,0.687,Yes,0.737
+P037,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Education,0.712,No,0.682
+P038,Overconfidence Effect,Overestimating your own abilities or knowledge,65+,Healthcare,0.774,No,0.744
+P039,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Student,0.784,No,0.754
+P040,Overconfidence Effect,Overestimating your own abilities or knowledge,18-25,Other,0.855,No,0.825
+P041,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Student,0.73,No,0.7
+P042,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Education,0.756,No,0.726
+P043,Overconfidence Effect,Overestimating your own abilities or knowledge,36-50,Tech,0.641,No,0.611
+P044,Overconfidence Effect,Overestimating your own abilities or knowledge,18-25,Student,0.639,Yes,0.689
+P045,Overconfidence Effect,Overestimating your own abilities or knowledge,65+,Education,0.812,No,0.782
+P046,Overconfidence Effect,Overestimating your own abilities or knowledge,18-25,Student,0.879,No,0.849
+P047,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Finance,0.979,No,0.949
+P048,Overconfidence Effect,Overestimating your own abilities or knowledge,51-65,Education,0.715,Yes,0.765
+P049,Overconfidence Effect,Overestimating your own abilities or knowledge,26-35,Student,0.997,Yes,1.0
+P050,Overconfidence Effect,Overestimating your own abilities or knowledge,18-25,Tech,0.713,No,0.683
+P001,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Student,0.69,No,0.66
+P002,Sunk Cost Fallacy,Continuing a behavior because of prior investment,26-35,Healthcare,0.922,Yes,0.972
+P003,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Other,0.5,Yes,0.55
+P004,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Other,0.809,No,0.779
+P005,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Tech,0.6,No,0.57
+P006,Sunk Cost Fallacy,Continuing a behavior because of prior investment,26-35,Tech,0.703,No,0.673
+P007,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Finance,0.862,No,0.832
+P008,Sunk Cost Fallacy,Continuing a behavior because of prior investment,26-35,Healthcare,0.833,No,0.803
+P009,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Education,0.791,Yes,0.841
+P010,Sunk Cost Fallacy,Continuing a behavior because of prior investment,65+,Tech,0.819,No,0.789
+P011,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Tech,0.449,No,0.419
+P012,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Student,0.899,No,0.869
+P013,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Tech,0.839,No,0.809
+P014,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Finance,1.0,No,0.97
+P015,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Finance,0.861,Yes,0.911
+P016,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Finance,0.685,Yes,0.735
+P017,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Student,0.465,No,0.435
+P018,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Healthcare,0.605,Yes,0.655
+P019,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Tech,0.465,Yes,0.515
+P020,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Other,0.941,No,0.911
+P021,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Other,0.468,No,0.438
+P022,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Healthcare,0.846,Yes,0.896
+P023,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Student,0.689,No,0.659
+P024,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Finance,0.949,Yes,0.999
+P025,Sunk Cost Fallacy,Continuing a behavior because of prior investment,65+,Student,0.682,Yes,0.732
+P026,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Finance,0.938,Yes,0.988
+P027,Sunk Cost Fallacy,Continuing a behavior because of prior investment,65+,Other,0.752,No,0.722
+P028,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Healthcare,0.682,No,0.652
+P029,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Healthcare,0.782,No,0.752
+P030,Sunk Cost Fallacy,Continuing a behavior because of prior investment,26-35,Healthcare,0.378,Yes,0.428
+P031,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Other,0.729,Yes,0.779
+P032,Sunk Cost Fallacy,Continuing a behavior because of prior investment,36-50,Healthcare,0.497,No,0.467
+P033,Sunk Cost Fallacy,Continuing a behavior because of prior investment,65+,Student,0.551,Yes,0.601
+P034,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Student,0.689,No,0.659
+P035,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Education,0.615,No,0.585
+P036,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Student,0.675,Yes,0.725
+P037,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Tech,0.845,No,0.815
+P038,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Tech,0.8,Yes,0.85
+P039,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Healthcare,0.537,No,0.507
+P040,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Finance,0.546,Yes,0.596
+P041,Sunk Cost Fallacy,Continuing a behavior because of prior investment,65+,Finance,0.529,Yes,0.579
+P042,Sunk Cost Fallacy,Continuing a behavior because of prior investment,26-35,Tech,0.876,Yes,0.926
+P043,Sunk Cost Fallacy,Continuing a behavior because of prior investment,26-35,Finance,0.847,Yes,0.897
+P044,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Finance,0.569,No,0.539
+P045,Sunk Cost Fallacy,Continuing a behavior because of prior investment,65+,Education,0.732,No,0.702
+P046,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Student,0.971,Yes,1.0
+P047,Sunk Cost Fallacy,Continuing a behavior because of prior investment,26-35,Healthcare,0.737,Yes,0.787
+P048,Sunk Cost Fallacy,Continuing a behavior because of prior investment,18-25,Student,0.678,Yes,0.728
+P049,Sunk Cost Fallacy,Continuing a behavior because of prior investment,65+,Tech,0.831,No,0.801
+P050,Sunk Cost Fallacy,Continuing a behavior because of prior investment,51-65,Education,0.639,Yes,0.689
+P001,Bandwagon Effect,Doing things because many others are doing them,18-25,Student,0.497,Yes,0.547
+P002,Bandwagon Effect,Doing things because many others are doing them,18-25,Finance,0.471,Yes,0.521
+P003,Bandwagon Effect,Doing things because many others are doing them,18-25,Tech,0.692,No,0.662
+P004,Bandwagon Effect,Doing things because many others are doing them,26-35,Student,0.65,No,0.62
+P005,Bandwagon Effect,Doing things because many others are doing them,51-65,Other,0.505,Yes,0.555
+P006,Bandwagon Effect,Doing things because many others are doing them,18-25,Healthcare,0.801,No,0.771
+P007,Bandwagon Effect,Doing things because many others are doing them,18-25,Healthcare,0.771,No,0.741
+P008,Bandwagon Effect,Doing things because many others are doing them,65+,Student,0.739,No,0.709
+P009,Bandwagon Effect,Doing things because many others are doing them,51-65,Other,0.591,No,0.561
+P010,Bandwagon Effect,Doing things because many others are doing them,51-65,Student,1.0,Yes,1.0
+P011,Bandwagon Effect,Doing things because many others are doing them,65+,Finance,0.625,No,0.595
+P012,Bandwagon Effect,Doing things because many others are doing them,36-50,Other,0.665,Yes,0.715
+P013,Bandwagon Effect,Doing things because many others are doing them,51-65,Tech,0.8,Yes,0.85
+P014,Bandwagon Effect,Doing things because many others are doing them,18-25,Student,0.593,No,0.563
+P015,Bandwagon Effect,Doing things because many others are doing them,36-50,Healthcare,0.661,Yes,0.711
+P016,Bandwagon Effect,Doing things because many others are doing them,26-35,Other,0.572,No,0.542
+P017,Bandwagon Effect,Doing things because many others are doing them,51-65,Student,0.342,No,0.312
+P018,Bandwagon Effect,Doing things because many others are doing them,26-35,Tech,0.498,Yes,0.548
+P019,Bandwagon Effect,Doing things because many others are doing them,26-35,Education,0.676,No,0.646
+P020,Bandwagon Effect,Doing things because many others are doing them,26-35,Finance,0.699,Yes,0.749
+P021,Bandwagon Effect,Doing things because many others are doing them,18-25,Healthcare,0.569,No,0.539
+P022,Bandwagon Effect,Doing things because many others are doing them,18-25,Other,0.839,No,0.809
+P023,Bandwagon Effect,Doing things because many others are doing them,26-35,Other,0.674,No,0.644
+P024,Bandwagon Effect,Doing things because many others are doing them,26-35,Healthcare,0.546,Yes,0.596
+P025,Bandwagon Effect,Doing things because many others are doing them,26-35,Student,0.504,No,0.474
+P026,Bandwagon Effect,Doing things because many others are doing them,18-25,Tech,0.757,Yes,0.807
+P027,Bandwagon Effect,Doing things because many others are doing them,26-35,Student,0.865,No,0.835
+P028,Bandwagon Effect,Doing things because many others are doing them,36-50,Student,0.458,No,0.428
+P029,Bandwagon Effect,Doing things because many others are doing them,51-65,Education,0.802,No,0.772
+P030,Bandwagon Effect,Doing things because many others are doing them,36-50,Education,0.438,Yes,0.488
+P031,Bandwagon Effect,Doing things because many others are doing them,51-65,Other,0.531,Yes,0.581
+P032,Bandwagon Effect,Doing things because many others are doing them,18-25,Education,0.781,No,0.751
+P033,Bandwagon Effect,Doing things because many others are doing them,51-65,Tech,0.453,No,0.423
+P034,Bandwagon Effect,Doing things because many others are doing them,26-35,Healthcare,0.718,No,0.688
+P035,Bandwagon Effect,Doing things because many others are doing them,18-25,Tech,0.56,No,0.53
+P036,Bandwagon Effect,Doing things because many others are doing them,65+,Education,0.761,No,0.731
+P037,Bandwagon Effect,Doing things because many others are doing them,18-25,Other,0.882,Yes,0.932
+P038,Bandwagon Effect,Doing things because many others are doing them,65+,Student,0.897,Yes,0.947
+P039,Bandwagon Effect,Doing things because many others are doing them,65+,Healthcare,0.499,Yes,0.549
+P040,Bandwagon Effect,Doing things because many others are doing them,18-25,Education,0.435,No,0.405
+P041,Bandwagon Effect,Doing things because many others are doing them,18-25,Tech,0.862,Yes,0.912
+P042,Bandwagon Effect,Doing things because many others are doing them,26-35,Other,0.88,No,0.85
+P043,Bandwagon Effect,Doing things because many others are doing them,26-35,Student,0.753,Yes,0.803
+P044,Bandwagon Effect,Doing things because many others are doing them,36-50,Education,0.471,Yes,0.521
+P045,Bandwagon Effect,Doing things because many others are doing them,51-65,Tech,0.64,No,0.61
+P046,Bandwagon Effect,Doing things because many others are doing them,65+,Finance,1.0,No,0.97
+P047,Bandwagon Effect,Doing things because many others are doing them,26-35,Finance,0.581,No,0.551
+P048,Bandwagon Effect,Doing things because many others are doing them,36-50,Other,0.722,Yes,0.772
+P049,Bandwagon Effect,Doing things because many others are doing them,51-65,Tech,0.681,No,0.651
+P050,Bandwagon Effect,Doing things because many others are doing them,18-25,Other,0.537,No,0.507
+P001,Dunning-Kruger Effect,Low-ability people overestimating their competence,51-65,Education,0.573,No,0.543
+P002,Dunning-Kruger Effect,Low-ability people overestimating their competence,36-50,Education,0.769,No,0.739
+P003,Dunning-Kruger Effect,Low-ability people overestimating their competence,51-65,Other,0.835,No,0.805
+P004,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Tech,0.688,No,0.658
+P005,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Healthcare,0.826,No,0.796
+P006,Dunning-Kruger Effect,Low-ability people overestimating their competence,36-50,Education,1.0,Yes,1.0
+P007,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Other,0.993,No,0.963
+P008,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Tech,0.651,Yes,0.701
+P009,Dunning-Kruger Effect,Low-ability people overestimating their competence,51-65,Healthcare,0.482,Yes,0.532
+P010,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Education,0.775,No,0.745
+P011,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Student,0.94,Yes,0.99
+P012,Dunning-Kruger Effect,Low-ability people overestimating their competence,36-50,Education,0.802,Yes,0.852
+P013,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Finance,0.714,No,0.684
+P014,Dunning-Kruger Effect,Low-ability people overestimating their competence,51-65,Tech,0.746,Yes,0.796
+P015,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Other,0.84,No,0.81
+P016,Dunning-Kruger Effect,Low-ability people overestimating their competence,36-50,Healthcare,0.854,No,0.824
+P017,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Student,0.682,No,0.652
+P018,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Healthcare,0.648,No,0.618
+P019,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Other,0.71,Yes,0.76
+P020,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Education,0.804,Yes,0.854
+P021,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Tech,0.978,Yes,1.0
+P022,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Education,1.0,No,0.97
+P023,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Tech,0.645,No,0.615
+P024,Dunning-Kruger Effect,Low-ability people overestimating their competence,51-65,Education,0.894,Yes,0.944
+P025,Dunning-Kruger Effect,Low-ability people overestimating their competence,36-50,Student,0.785,No,0.755
+P026,Dunning-Kruger Effect,Low-ability people overestimating their competence,51-65,Other,0.845,No,0.815
+P027,Dunning-Kruger Effect,Low-ability people overestimating their competence,51-65,Healthcare,0.795,No,0.765
+P028,Dunning-Kruger Effect,Low-ability people overestimating their competence,51-65,Tech,0.632,Yes,0.682
+P029,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Finance,0.805,Yes,0.855
+P030,Dunning-Kruger Effect,Low-ability people overestimating their competence,36-50,Other,0.842,Yes,0.892
+P031,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Other,0.557,No,0.527
+P032,Dunning-Kruger Effect,Low-ability people overestimating their competence,36-50,Finance,0.903,No,0.873
+P033,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Student,0.819,Yes,0.869
+P034,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Other,0.782,Yes,0.832
+P035,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Other,0.884,No,0.854
+P036,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Tech,0.75,No,0.72
+P037,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Healthcare,0.618,Yes,0.668
+P038,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Healthcare,0.832,No,0.802
+P039,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Education,0.998,No,0.968
+P040,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Student,0.625,No,0.595
+P041,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Tech,0.872,No,0.842
+P042,Dunning-Kruger Effect,Low-ability people overestimating their competence,26-35,Finance,0.815,No,0.785
+P043,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Student,1.0,No,0.97
+P044,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Other,0.86,Yes,0.91
+P045,Dunning-Kruger Effect,Low-ability people overestimating their competence,65+,Finance,0.917,No,0.887
+P046,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Other,1.0,No,0.97
+P047,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Tech,0.82,Yes,0.87
+P048,Dunning-Kruger Effect,Low-ability people overestimating their competence,18-25,Other,0.87,No,0.84
+P049,Dunning-Kruger Effect,Low-ability people overestimating their competence,51-65,Student,0.979,No,0.949
+P050,Dunning-Kruger Effect,Low-ability people overestimating their competence,36-50,Finance,0.997,Yes,1.0
+P001,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Student,0.545,Yes,0.595
+P002,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Finance,1.0,No,0.97
+P003,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,65+,Education,0.628,No,0.598
+P004,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Student,0.768,No,0.738
+P005,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Finance,0.704,No,0.674
+P006,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Education,0.759,No,0.729
+P007,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Healthcare,0.851,No,0.821
+P008,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Student,0.751,Yes,0.801
+P009,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Healthcare,0.655,No,0.625
+P010,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,65+,Finance,0.486,No,0.456
+P011,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,65+,Finance,0.672,No,0.642
+P012,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Healthcare,0.708,Yes,0.758
+P013,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Healthcare,0.805,No,0.775
+P014,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Finance,0.525,Yes,0.575
+P015,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Other,1.0,Yes,1.0
+P016,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Finance,0.912,Yes,0.962
+P017,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,65+,Education,0.953,No,0.923
+P018,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Tech,1.0,No,0.97
+P019,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,65+,Other,0.944,No,0.914
+P020,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Other,0.792,No,0.762
+P021,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Tech,0.527,Yes,0.577
+P022,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Tech,0.803,Yes,0.853
+P023,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Education,0.796,No,0.766
+P024,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,65+,Tech,0.869,No,0.839
+P025,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Other,0.666,Yes,0.716
+P026,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Tech,0.912,Yes,0.962
+P027,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Tech,0.818,No,0.788
+P028,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Finance,0.734,No,0.704
+P029,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Finance,0.821,Yes,0.871
+P030,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Healthcare,0.952,No,0.922
+P031,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Healthcare,0.848,Yes,0.898
+P032,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Healthcare,0.623,Yes,0.673
+P033,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Education,0.749,Yes,0.799
+P034,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Other,0.734,No,0.704
+P035,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Tech,0.642,No,0.612
+P036,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,65+,Tech,0.56,No,0.53
+P037,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Healthcare,0.644,No,0.614
+P038,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Tech,0.798,No,0.768
+P039,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Finance,0.851,Yes,0.901
+P040,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Education,0.61,No,0.58
+P041,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Other,0.74,No,0.71
+P042,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Student,0.769,Yes,0.819
+P043,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,26-35,Tech,0.672,Yes,0.722
+P044,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Student,0.389,No,0.359
+P045,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Education,0.798,Yes,0.848
+P046,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Education,0.914,Yes,0.964
+P047,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,51-65,Tech,0.845,No,0.815
+P048,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Other,0.744,No,0.714
+P049,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,36-50,Other,0.863,No,0.833
+P050,Loss Aversion,Feeling pain of loss more acutely than pleasure from equivalent gains,18-25,Student,0.792,No,0.762
+P001,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Other,0.645,Yes,0.695
+P002,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Finance,0.558,No,0.528
+P003,Framing Effect,Drawing different conclusions from same info depending on presentation,65+,Tech,1.0,No,0.97
+P004,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Tech,0.676,No,0.646
+P005,Framing Effect,Drawing different conclusions from same info depending on presentation,18-25,Other,0.765,No,0.735
+P006,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Finance,0.891,No,0.861
+P007,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Healthcare,0.943,No,0.913
+P008,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Finance,0.684,No,0.654
+P009,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Finance,0.625,No,0.595
+P010,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Healthcare,0.471,Yes,0.521
+P011,Framing Effect,Drawing different conclusions from same info depending on presentation,36-50,Finance,0.694,No,0.664
+P012,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Education,0.817,No,0.787
+P013,Framing Effect,Drawing different conclusions from same info depending on presentation,36-50,Tech,0.955,Yes,1.0
+P014,Framing Effect,Drawing different conclusions from same info depending on presentation,65+,Finance,0.562,No,0.532
+P015,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Education,0.794,Yes,0.844
+P016,Framing Effect,Drawing different conclusions from same info depending on presentation,18-25,Tech,0.505,No,0.475
+P017,Framing Effect,Drawing different conclusions from same info depending on presentation,36-50,Finance,0.537,No,0.507
+P018,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Healthcare,0.566,Yes,0.616
+P019,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Tech,0.909,Yes,0.959
+P020,Framing Effect,Drawing different conclusions from same info depending on presentation,65+,Student,0.539,No,0.509
+P021,Framing Effect,Drawing different conclusions from same info depending on presentation,65+,Other,0.743,No,0.713
+P022,Framing Effect,Drawing different conclusions from same info depending on presentation,65+,Student,0.606,No,0.576
+P023,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Other,0.831,Yes,0.881
+P024,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Tech,0.562,No,0.532
+P025,Framing Effect,Drawing different conclusions from same info depending on presentation,65+,Student,0.366,No,0.336
+P026,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Healthcare,0.722,Yes,0.772
+P027,Framing Effect,Drawing different conclusions from same info depending on presentation,65+,Other,0.977,No,0.947
+P028,Framing Effect,Drawing different conclusions from same info depending on presentation,65+,Healthcare,0.702,No,0.672
+P029,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Finance,0.093,No,0.063
+P030,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Other,0.99,No,0.96
+P031,Framing Effect,Drawing different conclusions from same info depending on presentation,18-25,Student,0.515,No,0.485
+P032,Framing Effect,Drawing different conclusions from same info depending on presentation,36-50,Student,0.546,No,0.516
+P033,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Tech,0.923,No,0.893
+P034,Framing Effect,Drawing different conclusions from same info depending on presentation,36-50,Student,0.74,No,0.71
+P035,Framing Effect,Drawing different conclusions from same info depending on presentation,36-50,Finance,0.509,No,0.479
+P036,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Finance,0.719,No,0.689
+P037,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Finance,0.425,Yes,0.475
+P038,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Healthcare,0.596,Yes,0.646
+P039,Framing Effect,Drawing different conclusions from same info depending on presentation,36-50,Education,0.633,No,0.603
+P040,Framing Effect,Drawing different conclusions from same info depending on presentation,18-25,Finance,0.774,Yes,0.824
+P041,Framing Effect,Drawing different conclusions from same info depending on presentation,36-50,Tech,0.508,No,0.478
+P042,Framing Effect,Drawing different conclusions from same info depending on presentation,18-25,Healthcare,0.58,No,0.55
+P043,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Education,0.555,Yes,0.605
+P044,Framing Effect,Drawing different conclusions from same info depending on presentation,18-25,Tech,0.622,No,0.592
+P045,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Education,0.695,No,0.665
+P046,Framing Effect,Drawing different conclusions from same info depending on presentation,65+,Education,0.637,No,0.607
+P047,Framing Effect,Drawing different conclusions from same info depending on presentation,26-35,Other,0.584,No,0.554
+P048,Framing Effect,Drawing different conclusions from same info depending on presentation,18-25,Tech,0.487,Yes,0.537
+P049,Framing Effect,Drawing different conclusions from same info depending on presentation,51-65,Other,0.696,Yes,0.746
+P050,Framing Effect,Drawing different conclusions from same info depending on presentation,18-25,Healthcare,0.621,No,0.591
+P001,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Finance,0.697,Yes,0.747
+P002,Recency Bias,Remembering recent events more vividly than earlier ones,36-50,Finance,0.581,Yes,0.631
+P003,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Finance,0.832,No,0.802
+P004,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Healthcare,0.665,No,0.635
+P005,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Student,0.663,No,0.633
+P006,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Healthcare,0.485,Yes,0.535
+P007,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Education,0.344,No,0.314
+P008,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Healthcare,0.447,No,0.417
+P009,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Other,0.326,No,0.296
+P010,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Student,0.695,Yes,0.745
+P011,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Student,0.655,No,0.625
+P012,Recency Bias,Remembering recent events more vividly than earlier ones,36-50,Other,0.715,No,0.685
+P013,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Other,0.628,No,0.598
+P014,Recency Bias,Remembering recent events more vividly than earlier ones,26-35,Other,0.301,No,0.271
+P015,Recency Bias,Remembering recent events more vividly than earlier ones,36-50,Other,0.475,No,0.445
+P016,Recency Bias,Remembering recent events more vividly than earlier ones,36-50,Student,0.578,No,0.548
+P017,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Student,0.857,No,0.827
+P018,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Healthcare,0.66,Yes,0.71
+P019,Recency Bias,Remembering recent events more vividly than earlier ones,65+,Tech,0.915,No,0.885
+P020,Recency Bias,Remembering recent events more vividly than earlier ones,36-50,Finance,0.565,No,0.535
+P021,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Healthcare,0.603,No,0.573
+P022,Recency Bias,Remembering recent events more vividly than earlier ones,36-50,Other,0.565,Yes,0.615
+P023,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Healthcare,0.442,No,0.412
+P024,Recency Bias,Remembering recent events more vividly than earlier ones,65+,Finance,0.813,Yes,0.863
+P025,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Education,0.871,No,0.841
+P026,Recency Bias,Remembering recent events more vividly than earlier ones,36-50,Education,0.602,No,0.572
+P027,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Tech,0.536,No,0.506
+P028,Recency Bias,Remembering recent events more vividly than earlier ones,26-35,Healthcare,0.564,No,0.534
+P029,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Education,0.655,No,0.625
+P030,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Finance,0.531,Yes,0.581
+P031,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Tech,0.404,No,0.374
+P032,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Finance,0.497,No,0.467
+P033,Recency Bias,Remembering recent events more vividly than earlier ones,65+,Tech,0.596,No,0.566
+P034,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Finance,0.93,No,0.9
+P035,Recency Bias,Remembering recent events more vividly than earlier ones,65+,Education,0.494,No,0.464
+P036,Recency Bias,Remembering recent events more vividly than earlier ones,26-35,Finance,0.654,No,0.624
+P037,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Healthcare,0.551,No,0.521
+P038,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Healthcare,0.309,No,0.279
+P039,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Education,0.73,Yes,0.78
+P040,Recency Bias,Remembering recent events more vividly than earlier ones,65+,Education,0.398,No,0.368
+P041,Recency Bias,Remembering recent events more vividly than earlier ones,65+,Finance,0.442,Yes,0.492
+P042,Recency Bias,Remembering recent events more vividly than earlier ones,26-35,Student,0.669,Yes,0.719
+P043,Recency Bias,Remembering recent events more vividly than earlier ones,36-50,Finance,0.515,No,0.485
+P044,Recency Bias,Remembering recent events more vividly than earlier ones,26-35,Tech,0.574,Yes,0.624
+P045,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Finance,0.737,No,0.707
+P046,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Tech,0.532,Yes,0.582
+P047,Recency Bias,Remembering recent events more vividly than earlier ones,18-25,Finance,0.601,Yes,0.651
+P048,Recency Bias,Remembering recent events more vividly than earlier ones,26-35,Education,0.841,No,0.811
+P049,Recency Bias,Remembering recent events more vividly than earlier ones,65+,Tech,0.621,No,0.591
+P050,Recency Bias,Remembering recent events more vividly than earlier ones,51-65,Education,0.9,No,0.87
+P001,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Finance,0.786,No,0.756
+P002,Halo Effect,Letting overall impression influence feelings about specific traits,51-65,Student,0.597,Yes,0.647
+P003,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Education,0.55,No,0.52
+P004,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Education,0.881,No,0.851
+P005,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Other,0.822,No,0.792
+P006,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Other,0.681,No,0.651
+P007,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Healthcare,0.795,Yes,0.845
+P008,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Tech,0.593,Yes,0.643
+P009,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Finance,0.887,Yes,0.937
+P010,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Finance,0.779,No,0.749
+P011,Halo Effect,Letting overall impression influence feelings about specific traits,51-65,Student,0.816,Yes,0.866
+P012,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Other,0.788,No,0.758
+P013,Halo Effect,Letting overall impression influence feelings about specific traits,65+,Education,0.507,No,0.477
+P014,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Finance,0.789,No,0.759
+P015,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Healthcare,0.592,No,0.562
+P016,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Healthcare,0.821,No,0.791
+P017,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Student,0.867,Yes,0.917
+P018,Halo Effect,Letting overall impression influence feelings about specific traits,65+,Finance,0.947,No,0.917
+P019,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Healthcare,1.0,No,0.97
+P020,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Other,0.621,Yes,0.671
+P021,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Finance,0.786,No,0.756
+P022,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Finance,0.557,Yes,0.607
+P023,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Tech,0.667,Yes,0.717
+P024,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Finance,0.524,No,0.494
+P025,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Tech,0.903,Yes,0.953
+P026,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Finance,0.741,No,0.711
+P027,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Healthcare,0.771,No,0.741
+P028,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Other,0.668,No,0.638
+P029,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Education,0.588,Yes,0.638
+P030,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Finance,0.727,No,0.697
+P031,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Tech,0.771,Yes,0.821
+P032,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Student,0.679,No,0.649
+P033,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Tech,0.737,No,0.707
+P034,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Education,0.706,Yes,0.756
+P035,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Education,0.678,Yes,0.728
+P036,Halo Effect,Letting overall impression influence feelings about specific traits,51-65,Tech,0.848,Yes,0.898
+P037,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Tech,0.811,Yes,0.861
+P038,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Tech,0.558,No,0.528
+P039,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Education,0.68,Yes,0.73
+P040,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Education,0.458,No,0.428
+P041,Halo Effect,Letting overall impression influence feelings about specific traits,26-35,Education,0.702,No,0.672
+P042,Halo Effect,Letting overall impression influence feelings about specific traits,65+,Healthcare,0.73,No,0.7
+P043,Halo Effect,Letting overall impression influence feelings about specific traits,18-25,Education,0.76,No,0.73
+P044,Halo Effect,Letting overall impression influence feelings about specific traits,51-65,Student,0.584,Yes,0.634
+P045,Halo Effect,Letting overall impression influence feelings about specific traits,51-65,Tech,0.792,Yes,0.842
+P046,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Student,0.625,Yes,0.675
+P047,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Education,0.698,No,0.668
+P048,Halo Effect,Letting overall impression influence feelings about specific traits,51-65,Education,0.702,Yes,0.752
+P049,Halo Effect,Letting overall impression influence feelings about specific traits,36-50,Other,0.719,No,0.689
+P050,Halo Effect,Letting overall impression influence feelings about specific traits,51-65,Education,0.992,No,0.962
+P001,Survivorship Bias,Focusing on successes and ignoring all the failures,18-25,Finance,0.92,No,0.89
+P002,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Student,0.393,No,0.363
+P003,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Tech,1.0,Yes,1.0
+P004,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Tech,0.711,Yes,0.761
+P005,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Education,0.675,Yes,0.725
+P006,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Finance,0.626,Yes,0.676
+P007,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Other,0.498,No,0.468
+P008,Survivorship Bias,Focusing on successes and ignoring all the failures,18-25,Finance,0.576,No,0.546
+P009,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Student,0.636,No,0.606
+P010,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Student,0.826,Yes,0.876
+P011,Survivorship Bias,Focusing on successes and ignoring all the failures,51-65,Tech,0.556,Yes,0.606
+P012,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Healthcare,0.632,No,0.602
+P013,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Student,0.798,No,0.768
+P014,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Education,0.603,Yes,0.653
+P015,Survivorship Bias,Focusing on successes and ignoring all the failures,18-25,Finance,0.601,Yes,0.651
+P016,Survivorship Bias,Focusing on successes and ignoring all the failures,51-65,Education,0.754,No,0.724
+P017,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Healthcare,0.689,No,0.659
+P018,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Tech,0.619,No,0.589
+P019,Survivorship Bias,Focusing on successes and ignoring all the failures,18-25,Finance,0.735,Yes,0.785
+P020,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Education,0.721,No,0.691
+P021,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Tech,0.527,No,0.497
+P022,Survivorship Bias,Focusing on successes and ignoring all the failures,51-65,Other,0.732,Yes,0.782
+P023,Survivorship Bias,Focusing on successes and ignoring all the failures,18-25,Student,0.799,No,0.769
+P024,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Finance,0.504,No,0.474
+P025,Survivorship Bias,Focusing on successes and ignoring all the failures,18-25,Education,0.722,Yes,0.772
+P026,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Student,0.705,Yes,0.755
+P027,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Finance,0.614,No,0.584
+P028,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Finance,0.599,Yes,0.649
+P029,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Education,0.807,No,0.777
+P030,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Healthcare,0.593,No,0.563
+P031,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Tech,0.638,Yes,0.688
+P032,Survivorship Bias,Focusing on successes and ignoring all the failures,51-65,Education,0.415,No,0.385
+P033,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Other,0.517,No,0.487
+P034,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Finance,0.784,No,0.754
+P035,Survivorship Bias,Focusing on successes and ignoring all the failures,51-65,Finance,0.793,Yes,0.843
+P036,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Healthcare,0.686,No,0.656
+P037,Survivorship Bias,Focusing on successes and ignoring all the failures,51-65,Student,0.739,No,0.709
+P038,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Education,0.619,Yes,0.669
+P039,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Finance,0.736,Yes,0.786
+P040,Survivorship Bias,Focusing on successes and ignoring all the failures,18-25,Tech,0.588,No,0.558
+P041,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Finance,0.61,No,0.58
+P042,Survivorship Bias,Focusing on successes and ignoring all the failures,51-65,Finance,0.68,No,0.65
+P043,Survivorship Bias,Focusing on successes and ignoring all the failures,18-25,Education,0.719,No,0.689
+P044,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Healthcare,1.0,Yes,1.0
+P045,Survivorship Bias,Focusing on successes and ignoring all the failures,36-50,Tech,0.566,No,0.536
+P046,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Student,0.475,No,0.445
+P047,Survivorship Bias,Focusing on successes and ignoring all the failures,51-65,Finance,0.711,No,0.681
+P048,Survivorship Bias,Focusing on successes and ignoring all the failures,26-35,Healthcare,0.43,No,0.4
+P049,Survivorship Bias,Focusing on successes and ignoring all the failures,18-25,Healthcare,0.68,No,0.65
+P050,Survivorship Bias,Focusing on successes and ignoring all the failures,65+,Tech,0.462,No,0.432
+P001,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Education,0.516,No,0.486
+P002,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Finance,0.538,No,0.508
+P003,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Finance,0.482,No,0.452
+P004,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Student,0.751,No,0.721
+P005,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Healthcare,0.54,Yes,0.59
+P006,Gambler's Fallacy,Believing past random events influence future outcomes,26-35,Healthcare,0.663,No,0.633
+P007,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Tech,0.917,Yes,0.967
+P008,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Tech,0.807,No,0.777
+P009,Gambler's Fallacy,Believing past random events influence future outcomes,26-35,Healthcare,0.921,Yes,0.971
+P010,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Education,0.393,No,0.363
+P011,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Education,0.657,No,0.627
+P012,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Education,0.445,No,0.415
+P013,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Healthcare,0.588,No,0.558
+P014,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Student,0.64,No,0.61
+P015,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Tech,0.748,No,0.718
+P016,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Education,0.715,Yes,0.765
+P017,Gambler's Fallacy,Believing past random events influence future outcomes,26-35,Healthcare,0.469,No,0.439
+P018,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Finance,0.643,No,0.613
+P019,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Tech,0.537,Yes,0.587
+P020,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Education,0.739,Yes,0.789
+P021,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Other,0.436,No,0.406
+P022,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Other,0.922,Yes,0.972
+P023,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Education,0.713,No,0.683
+P024,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Other,0.936,No,0.906
+P025,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Finance,0.438,No,0.408
+P026,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Student,0.54,No,0.51
+P027,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Other,0.625,Yes,0.675
+P028,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Education,0.618,Yes,0.668
+P029,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Tech,0.746,No,0.716
+P030,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Education,0.859,No,0.829
+P031,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Tech,0.565,Yes,0.615
+P032,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Student,0.67,Yes,0.72
+P033,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Tech,0.795,No,0.765
+P034,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Student,0.574,No,0.544
+P035,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Finance,0.698,Yes,0.748
+P036,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Finance,0.717,No,0.687
+P037,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Student,0.535,No,0.505
+P038,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Tech,0.763,No,0.733
+P039,Gambler's Fallacy,Believing past random events influence future outcomes,65+,Student,0.436,Yes,0.486
+P040,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Tech,0.707,No,0.677
+P041,Gambler's Fallacy,Believing past random events influence future outcomes,26-35,Finance,0.931,No,0.901
+P042,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Education,0.642,Yes,0.692
+P043,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Student,0.637,No,0.607
+P044,Gambler's Fallacy,Believing past random events influence future outcomes,26-35,Healthcare,0.779,Yes,0.829
+P045,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Student,0.66,Yes,0.71
+P046,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Healthcare,0.522,Yes,0.572
+P047,Gambler's Fallacy,Believing past random events influence future outcomes,36-50,Healthcare,0.561,No,0.531
+P048,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Finance,0.602,No,0.572
+P049,Gambler's Fallacy,Believing past random events influence future outcomes,18-25,Student,0.337,No,0.307
+P050,Gambler's Fallacy,Believing past random events influence future outcomes,51-65,Tech,0.786,No,0.756
+P001,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Tech,0.568,Yes,0.618
+P002,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Tech,0.728,No,0.698
+P003,Fundamental Attribution Error,Attributing others behavior to character vs situation,18-25,Tech,0.645,Yes,0.695
+P004,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Healthcare,0.963,No,0.933
+P005,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Tech,0.609,No,0.579
+P006,Fundamental Attribution Error,Attributing others behavior to character vs situation,65+,Tech,0.757,Yes,0.807
+P007,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Education,0.764,No,0.734
+P008,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Education,0.965,No,0.935
+P009,Fundamental Attribution Error,Attributing others behavior to character vs situation,65+,Finance,0.531,No,0.501
+P010,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Student,0.647,No,0.617
+P011,Fundamental Attribution Error,Attributing others behavior to character vs situation,18-25,Education,0.826,No,0.796
+P012,Fundamental Attribution Error,Attributing others behavior to character vs situation,18-25,Other,0.484,No,0.454
+P013,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Finance,0.915,No,0.885
+P014,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Finance,0.702,Yes,0.752
+P015,Fundamental Attribution Error,Attributing others behavior to character vs situation,18-25,Student,0.549,No,0.519
+P016,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Tech,0.626,Yes,0.676
+P017,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Student,0.691,No,0.661
+P018,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Finance,0.757,No,0.727
+P019,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Other,0.901,Yes,0.951
+P020,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Tech,0.48,Yes,0.53
+P021,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Healthcare,0.911,No,0.881
+P022,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Finance,0.717,No,0.687
+P023,Fundamental Attribution Error,Attributing others behavior to character vs situation,18-25,Tech,0.649,No,0.619
+P024,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Other,0.795,No,0.765
+P025,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Student,0.556,No,0.526
+P026,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Healthcare,0.58,No,0.55
+P027,Fundamental Attribution Error,Attributing others behavior to character vs situation,65+,Finance,0.434,No,0.404
+P028,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Education,0.42,No,0.39
+P029,Fundamental Attribution Error,Attributing others behavior to character vs situation,65+,Finance,0.879,No,0.849
+P030,Fundamental Attribution Error,Attributing others behavior to character vs situation,18-25,Student,0.579,No,0.549
+P031,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Student,0.821,No,0.791
+P032,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Other,0.539,Yes,0.589
+P033,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Tech,0.703,No,0.673
+P034,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Other,0.544,No,0.514
+P035,Fundamental Attribution Error,Attributing others behavior to character vs situation,65+,Tech,0.667,No,0.637
+P036,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Healthcare,0.744,No,0.714
+P037,Fundamental Attribution Error,Attributing others behavior to character vs situation,65+,Other,0.572,No,0.542
+P038,Fundamental Attribution Error,Attributing others behavior to character vs situation,65+,Student,0.415,No,0.385
+P039,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Healthcare,0.545,No,0.515
+P040,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Tech,0.423,Yes,0.473
+P041,Fundamental Attribution Error,Attributing others behavior to character vs situation,65+,Finance,0.721,No,0.691
+P042,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Education,0.76,Yes,0.81
+P043,Fundamental Attribution Error,Attributing others behavior to character vs situation,18-25,Tech,0.583,Yes,0.633
+P044,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Tech,0.8,Yes,0.85
+P045,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Other,0.447,Yes,0.497
+P046,Fundamental Attribution Error,Attributing others behavior to character vs situation,51-65,Tech,0.705,No,0.675
+P047,Fundamental Attribution Error,Attributing others behavior to character vs situation,36-50,Other,0.585,Yes,0.635
+P048,Fundamental Attribution Error,Attributing others behavior to character vs situation,65+,Tech,0.977,Yes,1.0
+P049,Fundamental Attribution Error,Attributing others behavior to character vs situation,18-25,Education,0.362,No,0.332
+P050,Fundamental Attribution Error,Attributing others behavior to character vs situation,26-35,Education,0.843,No,0.813
+P001,Groupthink,Conformity pressure leading to poor group decisions,51-65,Tech,0.813,No,0.783
+P002,Groupthink,Conformity pressure leading to poor group decisions,26-35,Student,0.802,Yes,0.852
+P003,Groupthink,Conformity pressure leading to poor group decisions,36-50,Finance,0.796,No,0.766
+P004,Groupthink,Conformity pressure leading to poor group decisions,18-25,Tech,0.941,Yes,0.991
+P005,Groupthink,Conformity pressure leading to poor group decisions,51-65,Education,0.661,Yes,0.711
+P006,Groupthink,Conformity pressure leading to poor group decisions,18-25,Healthcare,0.789,No,0.759
+P007,Groupthink,Conformity pressure leading to poor group decisions,51-65,Student,0.718,No,0.688
+P008,Groupthink,Conformity pressure leading to poor group decisions,36-50,Student,0.585,No,0.555
+P009,Groupthink,Conformity pressure leading to poor group decisions,51-65,Healthcare,0.789,Yes,0.839
+P010,Groupthink,Conformity pressure leading to poor group decisions,18-25,Other,0.894,Yes,0.944
+P011,Groupthink,Conformity pressure leading to poor group decisions,65+,Other,0.654,Yes,0.704
+P012,Groupthink,Conformity pressure leading to poor group decisions,26-35,Other,0.627,Yes,0.677
+P013,Groupthink,Conformity pressure leading to poor group decisions,51-65,Tech,0.692,No,0.662
+P014,Groupthink,Conformity pressure leading to poor group decisions,26-35,Student,0.812,No,0.782
+P015,Groupthink,Conformity pressure leading to poor group decisions,36-50,Other,0.611,No,0.581
+P016,Groupthink,Conformity pressure leading to poor group decisions,36-50,Finance,0.622,Yes,0.672
+P017,Groupthink,Conformity pressure leading to poor group decisions,26-35,Education,0.97,Yes,1.0
+P018,Groupthink,Conformity pressure leading to poor group decisions,18-25,Student,0.582,Yes,0.632
+P019,Groupthink,Conformity pressure leading to poor group decisions,51-65,Student,0.885,No,0.855
+P020,Groupthink,Conformity pressure leading to poor group decisions,26-35,Finance,0.661,No,0.631
+P021,Groupthink,Conformity pressure leading to poor group decisions,18-25,Tech,0.686,No,0.656
+P022,Groupthink,Conformity pressure leading to poor group decisions,51-65,Student,0.637,No,0.607
+P023,Groupthink,Conformity pressure leading to poor group decisions,51-65,Healthcare,0.807,Yes,0.857
+P024,Groupthink,Conformity pressure leading to poor group decisions,65+,Education,0.944,No,0.914
+P025,Groupthink,Conformity pressure leading to poor group decisions,36-50,Student,0.625,No,0.595
+P026,Groupthink,Conformity pressure leading to poor group decisions,36-50,Student,0.567,No,0.537
+P027,Groupthink,Conformity pressure leading to poor group decisions,26-35,Other,0.784,No,0.754
+P028,Groupthink,Conformity pressure leading to poor group decisions,65+,Other,0.828,Yes,0.878
+P029,Groupthink,Conformity pressure leading to poor group decisions,26-35,Healthcare,0.834,No,0.804
+P030,Groupthink,Conformity pressure leading to poor group decisions,65+,Other,0.788,No,0.758
+P031,Groupthink,Conformity pressure leading to poor group decisions,51-65,Education,0.52,Yes,0.57
+P032,Groupthink,Conformity pressure leading to poor group decisions,36-50,Education,0.533,No,0.503
+P033,Groupthink,Conformity pressure leading to poor group decisions,65+,Education,0.593,No,0.563
+P034,Groupthink,Conformity pressure leading to poor group decisions,26-35,Finance,0.788,No,0.758
+P035,Groupthink,Conformity pressure leading to poor group decisions,65+,Other,0.816,No,0.786
+P036,Groupthink,Conformity pressure leading to poor group decisions,51-65,Other,0.737,Yes,0.787
+P037,Groupthink,Conformity pressure leading to poor group decisions,65+,Finance,0.382,No,0.352
+P038,Groupthink,Conformity pressure leading to poor group decisions,26-35,Education,0.599,No,0.569
+P039,Groupthink,Conformity pressure leading to poor group decisions,36-50,Student,0.776,Yes,0.826
+P040,Groupthink,Conformity pressure leading to poor group decisions,18-25,Tech,1.0,No,0.97
+P041,Groupthink,Conformity pressure leading to poor group decisions,36-50,Other,0.873,Yes,0.923
+P042,Groupthink,Conformity pressure leading to poor group decisions,51-65,Tech,0.824,No,0.794
+P043,Groupthink,Conformity pressure leading to poor group decisions,26-35,Education,0.654,No,0.624
+P044,Groupthink,Conformity pressure leading to poor group decisions,65+,Education,0.688,Yes,0.738
+P045,Groupthink,Conformity pressure leading to poor group decisions,51-65,Other,0.865,No,0.835
+P046,Groupthink,Conformity pressure leading to poor group decisions,65+,Education,0.792,No,0.762
+P047,Groupthink,Conformity pressure leading to poor group decisions,18-25,Other,0.959,Yes,1.0
+P048,Groupthink,Conformity pressure leading to poor group decisions,51-65,Education,0.706,Yes,0.756
+P049,Groupthink,Conformity pressure leading to poor group decisions,26-35,Education,0.654,No,0.624
+P050,Groupthink,Conformity pressure leading to poor group decisions,65+,Student,0.73,No,0.7
+P001,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Finance,0.895,No,0.865
+P002,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Finance,0.731,Yes,0.781
+P003,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Healthcare,0.724,No,0.694
+P004,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Education,0.635,Yes,0.685
+P005,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Tech,0.477,No,0.447
+P006,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Finance,0.884,Yes,0.934
+P007,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Education,0.641,No,0.611
+P008,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Education,0.306,No,0.276
+P009,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Education,0.575,Yes,0.625
+P010,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Finance,0.85,No,0.82
+P011,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Student,0.774,Yes,0.824
+P012,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Healthcare,0.502,Yes,0.552
+P013,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Tech,0.874,No,0.844
+P014,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Tech,0.951,No,0.921
+P015,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Education,0.924,Yes,0.974
+P016,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Student,0.666,Yes,0.716
+P017,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Healthcare,0.365,No,0.335
+P018,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Student,0.667,Yes,0.717
+P019,Negativity Bias,Giving more weight to negative experiences than positive ones,65+,Healthcare,0.887,No,0.857
+P020,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Healthcare,0.342,Yes,0.392
+P021,Negativity Bias,Giving more weight to negative experiences than positive ones,65+,Education,0.789,Yes,0.839
+P022,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Education,0.732,No,0.702
+P023,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Tech,0.772,Yes,0.822
+P024,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Healthcare,0.451,No,0.421
+P025,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Student,0.582,Yes,0.632
+P026,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Healthcare,0.818,No,0.788
+P027,Negativity Bias,Giving more weight to negative experiences than positive ones,65+,Student,0.506,Yes,0.556
+P028,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Finance,0.493,Yes,0.543
+P029,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Finance,0.503,No,0.473
+P030,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Education,0.593,No,0.563
+P031,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Tech,0.702,No,0.672
+P032,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Finance,0.46,No,0.43
+P033,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Tech,0.617,No,0.587
+P034,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Education,0.554,No,0.524
+P035,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Finance,0.836,Yes,0.886
+P036,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Other,0.5,Yes,0.55
+P037,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Education,0.595,Yes,0.645
+P038,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Tech,0.753,Yes,0.803
+P039,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Other,0.514,No,0.484
+P040,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Tech,0.717,No,0.687
+P041,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Finance,0.648,No,0.618
+P042,Negativity Bias,Giving more weight to negative experiences than positive ones,36-50,Student,0.558,No,0.528
+P043,Negativity Bias,Giving more weight to negative experiences than positive ones,65+,Student,0.56,No,0.53
+P044,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Finance,0.605,No,0.575
+P045,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Other,0.708,No,0.678
+P046,Negativity Bias,Giving more weight to negative experiences than positive ones,26-35,Finance,0.629,No,0.599
+P047,Negativity Bias,Giving more weight to negative experiences than positive ones,65+,Student,0.681,Yes,0.731
+P048,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Tech,0.46,Yes,0.51
+P049,Negativity Bias,Giving more weight to negative experiences than positive ones,51-65,Tech,0.766,No,0.736
+P050,Negativity Bias,Giving more weight to negative experiences than positive ones,18-25,Tech,0.594,Yes,0.644
+P001,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Tech,0.691,No,0.661
+P002,Optimism Bias,Underestimating likelihood of negative events happening to you,65+,Finance,0.704,No,0.674
+P003,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Tech,0.712,Yes,0.762
+P004,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Student,0.953,Yes,1.0
+P005,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Other,0.911,No,0.881
+P006,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Tech,0.769,Yes,0.819
+P007,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Student,0.916,No,0.886
+P008,Optimism Bias,Underestimating likelihood of negative events happening to you,65+,Healthcare,0.848,Yes,0.898
+P009,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Student,0.869,No,0.839
+P010,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Student,0.761,No,0.731
+P011,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Tech,0.813,Yes,0.863
+P012,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Finance,0.788,No,0.758
+P013,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Finance,0.546,No,0.516
+P014,Optimism Bias,Underestimating likelihood of negative events happening to you,65+,Education,0.692,Yes,0.742
+P015,Optimism Bias,Underestimating likelihood of negative events happening to you,65+,Finance,0.806,Yes,0.856
+P016,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Other,0.582,No,0.552
+P017,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Education,0.708,No,0.678
+P018,Optimism Bias,Underestimating likelihood of negative events happening to you,26-35,Finance,0.92,Yes,0.97
+P019,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Student,0.595,No,0.565
+P020,Optimism Bias,Underestimating likelihood of negative events happening to you,26-35,Healthcare,0.526,No,0.496
+P021,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Student,0.686,No,0.656
+P022,Optimism Bias,Underestimating likelihood of negative events happening to you,26-35,Education,0.686,No,0.656
+P023,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Education,0.683,Yes,0.733
+P024,Optimism Bias,Underestimating likelihood of negative events happening to you,26-35,Education,0.804,Yes,0.854
+P025,Optimism Bias,Underestimating likelihood of negative events happening to you,26-35,Healthcare,0.915,No,0.885
+P026,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Healthcare,0.72,No,0.69
+P027,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Student,0.93,Yes,0.98
+P028,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Other,0.893,No,0.863
+P029,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Tech,0.598,No,0.568
+P030,Optimism Bias,Underestimating likelihood of negative events happening to you,26-35,Student,0.68,Yes,0.73
+P031,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Other,0.64,Yes,0.69
+P032,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Other,0.784,Yes,0.834
+P033,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Tech,1.0,No,0.97
+P034,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Tech,0.709,No,0.679
+P035,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Student,0.655,No,0.625
+P036,Optimism Bias,Underestimating likelihood of negative events happening to you,26-35,Finance,0.891,No,0.861
+P037,Optimism Bias,Underestimating likelihood of negative events happening to you,65+,Healthcare,0.752,No,0.722
+P038,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Student,0.788,No,0.758
+P039,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Tech,0.664,No,0.634
+P040,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Student,0.773,Yes,0.823
+P041,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Tech,0.813,No,0.783
+P042,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Tech,0.695,No,0.665
+P043,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Student,0.555,No,0.525
+P044,Optimism Bias,Underestimating likelihood of negative events happening to you,51-65,Finance,0.85,No,0.82
+P045,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Education,0.766,No,0.736
+P046,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Tech,1.0,No,0.97
+P047,Optimism Bias,Underestimating likelihood of negative events happening to you,26-35,Education,0.676,Yes,0.726
+P048,Optimism Bias,Underestimating likelihood of negative events happening to you,36-50,Student,0.77,No,0.74
+P049,Optimism Bias,Underestimating likelihood of negative events happening to you,18-25,Healthcare,0.92,Yes,0.97
+P050,Optimism Bias,Underestimating likelihood of negative events happening to you,26-35,Other,0.706,No,0.676
+P001,Authority Bias,Overvaluing opinions of authority figures,65+,Education,0.794,No,0.764
+P002,Authority Bias,Overvaluing opinions of authority figures,18-25,Finance,0.602,No,0.572
+P003,Authority Bias,Overvaluing opinions of authority figures,26-35,Other,0.82,Yes,0.87
+P004,Authority Bias,Overvaluing opinions of authority figures,36-50,Student,0.713,No,0.683
+P005,Authority Bias,Overvaluing opinions of authority figures,26-35,Education,0.863,No,0.833
+P006,Authority Bias,Overvaluing opinions of authority figures,36-50,Student,0.688,Yes,0.738
+P007,Authority Bias,Overvaluing opinions of authority figures,18-25,Other,0.493,Yes,0.543
+P008,Authority Bias,Overvaluing opinions of authority figures,51-65,Other,0.645,No,0.615
+P009,Authority Bias,Overvaluing opinions of authority figures,51-65,Healthcare,0.545,No,0.515
+P010,Authority Bias,Overvaluing opinions of authority figures,51-65,Healthcare,0.752,No,0.722
+P011,Authority Bias,Overvaluing opinions of authority figures,26-35,Other,0.815,No,0.785
+P012,Authority Bias,Overvaluing opinions of authority figures,36-50,Other,0.617,No,0.587
+P013,Authority Bias,Overvaluing opinions of authority figures,51-65,Tech,0.711,Yes,0.761
+P014,Authority Bias,Overvaluing opinions of authority figures,65+,Student,0.413,No,0.383
+P015,Authority Bias,Overvaluing opinions of authority figures,18-25,Healthcare,0.564,No,0.534
+P016,Authority Bias,Overvaluing opinions of authority figures,65+,Other,0.485,Yes,0.535
+P017,Authority Bias,Overvaluing opinions of authority figures,65+,Student,0.396,No,0.366
+P018,Authority Bias,Overvaluing opinions of authority figures,36-50,Education,0.646,No,0.616
+P019,Authority Bias,Overvaluing opinions of authority figures,51-65,Tech,0.731,No,0.701
+P020,Authority Bias,Overvaluing opinions of authority figures,36-50,Other,0.373,Yes,0.423
+P021,Authority Bias,Overvaluing opinions of authority figures,65+,Finance,0.439,Yes,0.489
+P022,Authority Bias,Overvaluing opinions of authority figures,65+,Other,0.463,Yes,0.513
+P023,Authority Bias,Overvaluing opinions of authority figures,65+,Finance,0.588,No,0.558
+P024,Authority Bias,Overvaluing opinions of authority figures,36-50,Education,0.897,No,0.867
+P025,Authority Bias,Overvaluing opinions of authority figures,65+,Tech,0.665,No,0.635
+P026,Authority Bias,Overvaluing opinions of authority figures,36-50,Education,0.61,Yes,0.66
+P027,Authority Bias,Overvaluing opinions of authority figures,26-35,Finance,0.617,No,0.587
+P028,Authority Bias,Overvaluing opinions of authority figures,51-65,Tech,0.702,No,0.672
+P029,Authority Bias,Overvaluing opinions of authority figures,18-25,Finance,0.402,No,0.372
+P030,Authority Bias,Overvaluing opinions of authority figures,18-25,Healthcare,0.802,Yes,0.852
+P031,Authority Bias,Overvaluing opinions of authority figures,36-50,Healthcare,0.722,No,0.692
+P032,Authority Bias,Overvaluing opinions of authority figures,65+,Finance,0.695,No,0.665
+P033,Authority Bias,Overvaluing opinions of authority figures,18-25,Finance,0.205,No,0.175
+P034,Authority Bias,Overvaluing opinions of authority figures,51-65,Other,0.922,No,0.892
+P035,Authority Bias,Overvaluing opinions of authority figures,26-35,Education,0.743,No,0.713
+P036,Authority Bias,Overvaluing opinions of authority figures,65+,Other,0.793,Yes,0.843
+P037,Authority Bias,Overvaluing opinions of authority figures,36-50,Education,0.531,Yes,0.581
+P038,Authority Bias,Overvaluing opinions of authority figures,26-35,Student,0.734,No,0.704
+P039,Authority Bias,Overvaluing opinions of authority figures,18-25,Education,0.714,Yes,0.764
+P040,Authority Bias,Overvaluing opinions of authority figures,36-50,Finance,0.825,Yes,0.875
+P041,Authority Bias,Overvaluing opinions of authority figures,51-65,Student,0.437,Yes,0.487
+P042,Authority Bias,Overvaluing opinions of authority figures,26-35,Healthcare,0.582,No,0.552
+P043,Authority Bias,Overvaluing opinions of authority figures,36-50,Education,0.675,No,0.645
+P044,Authority Bias,Overvaluing opinions of authority figures,51-65,Finance,0.279,Yes,0.329
+P045,Authority Bias,Overvaluing opinions of authority figures,36-50,Healthcare,0.424,Yes,0.474
+P046,Authority Bias,Overvaluing opinions of authority figures,26-35,Healthcare,0.696,No,0.666
+P047,Authority Bias,Overvaluing opinions of authority figures,26-35,Education,0.753,No,0.723
+P048,Authority Bias,Overvaluing opinions of authority figures,36-50,Student,0.983,No,0.953
+P049,Authority Bias,Overvaluing opinions of authority figures,36-50,Student,0.753,No,0.723
+P050,Authority Bias,Overvaluing opinions of authority figures,51-65,Healthcare,0.688,No,0.658
+P001,Status Quo Bias,Preferring things stay the same over making changes,18-25,Student,0.44,No,0.41
+P002,Status Quo Bias,Preferring things stay the same over making changes,51-65,Healthcare,0.488,No,0.458
+P003,Status Quo Bias,Preferring things stay the same over making changes,26-35,Student,0.418,No,0.388
+P004,Status Quo Bias,Preferring things stay the same over making changes,18-25,Other,0.644,Yes,0.694
+P005,Status Quo Bias,Preferring things stay the same over making changes,26-35,Healthcare,0.25,Yes,0.3
+P006,Status Quo Bias,Preferring things stay the same over making changes,36-50,Healthcare,0.491,No,0.461
+P007,Status Quo Bias,Preferring things stay the same over making changes,18-25,Student,0.591,No,0.561
+P008,Status Quo Bias,Preferring things stay the same over making changes,18-25,Healthcare,0.639,Yes,0.689
+P009,Status Quo Bias,Preferring things stay the same over making changes,26-35,Education,0.312,Yes,0.362
+P010,Status Quo Bias,Preferring things stay the same over making changes,36-50,Healthcare,0.659,No,0.629
+P011,Status Quo Bias,Preferring things stay the same over making changes,65+,Other,0.576,Yes,0.626
+P012,Status Quo Bias,Preferring things stay the same over making changes,51-65,Student,0.291,No,0.261
+P013,Status Quo Bias,Preferring things stay the same over making changes,26-35,Finance,0.488,Yes,0.538
+P014,Status Quo Bias,Preferring things stay the same over making changes,65+,Finance,0.736,No,0.706
+P015,Status Quo Bias,Preferring things stay the same over making changes,18-25,Finance,0.415,Yes,0.465
+P016,Status Quo Bias,Preferring things stay the same over making changes,51-65,Education,0.728,No,0.698
+P017,Status Quo Bias,Preferring things stay the same over making changes,18-25,Finance,0.479,No,0.449
+P018,Status Quo Bias,Preferring things stay the same over making changes,65+,Finance,0.864,Yes,0.914
+P019,Status Quo Bias,Preferring things stay the same over making changes,26-35,Student,0.638,No,0.608
+P020,Status Quo Bias,Preferring things stay the same over making changes,51-65,Other,0.79,No,0.76
+P021,Status Quo Bias,Preferring things stay the same over making changes,36-50,Finance,0.683,No,0.653
+P022,Status Quo Bias,Preferring things stay the same over making changes,18-25,Other,0.9,Yes,0.95
+P023,Status Quo Bias,Preferring things stay the same over making changes,65+,Student,0.417,Yes,0.467
+P024,Status Quo Bias,Preferring things stay the same over making changes,36-50,Tech,0.685,No,0.655
+P025,Status Quo Bias,Preferring things stay the same over making changes,36-50,Tech,0.514,No,0.484
+P026,Status Quo Bias,Preferring things stay the same over making changes,51-65,Healthcare,0.318,No,0.288
+P027,Status Quo Bias,Preferring things stay the same over making changes,51-65,Tech,0.617,No,0.587
+P028,Status Quo Bias,Preferring things stay the same over making changes,18-25,Student,0.544,Yes,0.594
+P029,Status Quo Bias,Preferring things stay the same over making changes,18-25,Education,0.555,No,0.525
+P030,Status Quo Bias,Preferring things stay the same over making changes,26-35,Healthcare,0.58,Yes,0.63
+P031,Status Quo Bias,Preferring things stay the same over making changes,36-50,Tech,0.494,No,0.464
+P032,Status Quo Bias,Preferring things stay the same over making changes,26-35,Education,0.561,Yes,0.611
+P033,Status Quo Bias,Preferring things stay the same over making changes,18-25,Tech,0.659,No,0.629
+P034,Status Quo Bias,Preferring things stay the same over making changes,36-50,Other,0.22,No,0.19
+P035,Status Quo Bias,Preferring things stay the same over making changes,51-65,Tech,0.81,Yes,0.86
+P036,Status Quo Bias,Preferring things stay the same over making changes,26-35,Healthcare,0.329,Yes,0.379
+P037,Status Quo Bias,Preferring things stay the same over making changes,26-35,Education,0.649,No,0.619
+P038,Status Quo Bias,Preferring things stay the same over making changes,36-50,Finance,0.355,Yes,0.405
+P039,Status Quo Bias,Preferring things stay the same over making changes,26-35,Tech,0.789,Yes,0.839
+P040,Status Quo Bias,Preferring things stay the same over making changes,18-25,Finance,0.506,No,0.476
+P041,Status Quo Bias,Preferring things stay the same over making changes,36-50,Tech,0.45,Yes,0.5
+P042,Status Quo Bias,Preferring things stay the same over making changes,26-35,Other,0.389,Yes,0.439
+P043,Status Quo Bias,Preferring things stay the same over making changes,36-50,Other,0.546,No,0.516
+P044,Status Quo Bias,Preferring things stay the same over making changes,26-35,Other,0.605,No,0.575
+P045,Status Quo Bias,Preferring things stay the same over making changes,65+,Student,0.545,No,0.515
+P046,Status Quo Bias,Preferring things stay the same over making changes,51-65,Student,0.714,Yes,0.764
+P047,Status Quo Bias,Preferring things stay the same over making changes,36-50,Finance,0.427,Yes,0.477
+P048,Status Quo Bias,Preferring things stay the same over making changes,26-35,Healthcare,0.472,Yes,0.522
+P049,Status Quo Bias,Preferring things stay the same over making changes,26-35,Education,0.614,No,0.584
+P050,Status Quo Bias,Preferring things stay the same over making changes,18-25,Finance,0.562,Yes,0.612
+P001,Peak-End Rule,Judging experiences by peak moment and ending vs the average,26-35,Other,0.592,No,0.562
+P002,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Tech,0.708,Yes,0.758
+P003,Peak-End Rule,Judging experiences by peak moment and ending vs the average,36-50,Tech,0.839,No,0.809
+P004,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Healthcare,0.8,Yes,0.85
+P005,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Student,0.668,No,0.638
+P006,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Student,0.424,No,0.394
+P007,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Healthcare,0.572,No,0.542
+P008,Peak-End Rule,Judging experiences by peak moment and ending vs the average,36-50,Student,0.556,No,0.526
+P009,Peak-End Rule,Judging experiences by peak moment and ending vs the average,26-35,Finance,0.793,Yes,0.843
+P010,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Finance,0.933,Yes,0.983
+P011,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Student,0.674,No,0.644
+P012,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Education,0.568,Yes,0.618
+P013,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Tech,0.716,No,0.686
+P014,Peak-End Rule,Judging experiences by peak moment and ending vs the average,36-50,Tech,0.779,Yes,0.829
+P015,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Tech,0.947,No,0.917
+P016,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Education,0.595,Yes,0.645
+P017,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Student,0.659,No,0.629
+P018,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Tech,0.651,No,0.621
+P019,Peak-End Rule,Judging experiences by peak moment and ending vs the average,26-35,Student,0.62,Yes,0.67
+P020,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Healthcare,0.533,No,0.503
+P021,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Student,0.538,Yes,0.588
+P022,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Tech,0.925,Yes,0.975
+P023,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Education,0.607,Yes,0.657
+P024,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Finance,0.568,No,0.538
+P025,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Tech,0.451,No,0.421
+P026,Peak-End Rule,Judging experiences by peak moment and ending vs the average,36-50,Student,0.464,No,0.434
+P027,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Education,0.639,No,0.609
+P028,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Healthcare,0.609,Yes,0.659
+P029,Peak-End Rule,Judging experiences by peak moment and ending vs the average,26-35,Tech,0.597,Yes,0.647
+P030,Peak-End Rule,Judging experiences by peak moment and ending vs the average,36-50,Tech,0.395,Yes,0.445
+P031,Peak-End Rule,Judging experiences by peak moment and ending vs the average,26-35,Other,0.42,No,0.39
+P032,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Student,0.978,No,0.948
+P033,Peak-End Rule,Judging experiences by peak moment and ending vs the average,36-50,Student,0.622,Yes,0.672
+P034,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Finance,0.407,No,0.377
+P035,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Other,0.592,Yes,0.642
+P036,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Other,0.484,No,0.454
+P037,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Tech,0.607,Yes,0.657
+P038,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Other,0.85,No,0.82
+P039,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Tech,0.363,No,0.333
+P040,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Finance,0.731,No,0.701
+P041,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Education,0.501,Yes,0.551
+P042,Peak-End Rule,Judging experiences by peak moment and ending vs the average,36-50,Tech,0.444,Yes,0.494
+P043,Peak-End Rule,Judging experiences by peak moment and ending vs the average,65+,Healthcare,0.335,No,0.305
+P044,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Healthcare,0.504,No,0.474
+P045,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Other,0.474,No,0.444
+P046,Peak-End Rule,Judging experiences by peak moment and ending vs the average,51-65,Student,0.294,Yes,0.344
+P047,Peak-End Rule,Judging experiences by peak moment and ending vs the average,36-50,Other,0.384,No,0.354
+P048,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Finance,0.46,No,0.43
+P049,Peak-End Rule,Judging experiences by peak moment and ending vs the average,18-25,Student,0.743,No,0.713
+P050,Peak-End Rule,Judging experiences by peak moment and ending vs the average,36-50,Healthcare,0.502,Yes,0.552
