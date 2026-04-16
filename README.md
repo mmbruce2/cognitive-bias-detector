@@ -1,43 +1,57 @@
 # 🧠 Cognitive Bias Detector
 
-Analyzes **20 cognitive biases** across **1000 simulated participants**. Identifies which biases are most prevalent in the population, how susceptibility varies by age and profession, and the relationship between bias awareness and actual bias scores.
+Analyzes **15 cognitive biases** — prevalence, impact severity, risk scores, and mitigation strategies across Belief, Decision, Social, Memory, Probability, Perception, and Analysis categories.
 
 ## What It Does
 
-- **Ranks 20 cognitive biases** by population-level prevalence
-- **Breaks down susceptibility** by age group and profession
-- **Measures awareness effect** — bias-aware vs unaware participants
-- **4 visualizations**: top 15 biases, age demographic breakdown, profession comparison, awareness histogram
+- **15 cognitive biases** tracked: Confirmation Bias, Anchoring, Dunning-Kruger, Groupthink, Sunk Cost, and more
+- **Highest risk**: Confirmation Bias 68.0 (85% prevalence, 8/10 impact), Groupthink 65.6 (82%, 8/10), Overconfidence 64.0 (80%, 8/10)
+- **Highest impact**: Dunning-Kruger 9/10 (low ability people overestimate competence), Confirmation/Overconfidence/Groupthink/Survivorship all 8/10
+- **Most prevalent**: Confirmation Bias 85%, Groupthink 82%, Overconfidence 80%, Fundamental Attribution Error 78%
+- **Highest risk categories**: Belief avg 58.2, Social avg 56.9, Analysis avg 52.0
+- **Mitigation strategies** for each bias with actionable steps
+- **4 charts**: Risk rankings, prevalence vs impact scatter, category risk breakdown, category pie chart
 
 ## Quick Start
 
 ```bash
 pip install pandas matplotlib
-python analyzer.py
+python run.py
 ```
 
 ## Key Findings
 
 ```
-🧠 Most Prevalent Biases:
-   1. Dunning-Kruger Effect      0.81
-   2. Overconfidence Effect      0.78
-   3. Optimism Bias              0.76
-   4. Loss Aversion               0.76
-   5. Confirmation Bias          0.74
+🚨 TOP 5 HIGHEST RISK BIASES:
+   Confirmation Bias: risk 68.0 (85%, 8/10)
+   Groupthink: risk 65.6 (82%, 8/10)
+   Overconfidence: risk 64.0 (80%, 8/10)
+   Dunning-Kruger: risk 55.8 (62%, 9/10)
+   Fundamental Attribution: risk 54.6 (78%, 7/10)
 
-👥 Age: 26-35 has highest susceptibility (0.71)
-💼 Profession: Tech workers most susceptible (0.70)
-📊 Awareness effect: Aware participants score 0.741 vs 0.656 for unaware
+📊 BY CATEGORY (avg risk):
+   Belief: 58.2 | Social: 56.9 | Analysis: 52.0
+
+🎯 MOST PREVALENT:
+   Confirmation 85% | Groupthink 82% | Overconfidence 80%
+
+💥 HIGHEST IMPACT:
+   Dunning-Kruger 9/10 | Confirmation/Overconfidence/Groupthink/Survivorship 8/10
 ```
 
-## Prediction Logic
+## Bias Categories
 
-Bias scores are modeled from documented psychological research on each bias's population-level prevalence, with individual variation via Gaussian noise and demographic weighting.
+| Category | Count | Avg Risk |
+|----------|-------|----------|
+| Belief | 4 | 58.2 |
+| Social | 3 | 56.9 |
+| Decision | 3 | 46.4 |
+| Memory | 2 | 42.6 |
+| Analysis | 1 | 52.0 |
 
 ## Data Source
 
-Cognitive bias prevalence scores based on documented research from Kahneman & Tversky, Dunning-Kruger studies, and meta-analyses of behavioral economics literature.
+Research synthesis from Kahneman & Tversky's prospect theory, cognitive psychology literature, and behavioral economics research (1970s-2024).
 
 ## Tech Stack
 

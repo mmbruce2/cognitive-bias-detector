@@ -1,0 +1,16 @@
+bias,category,prevalence,impact_score,description,mitigation,risk_score
+Confirmation Bias,Belief,85,8,Seeking information that confirms existing beliefs while ignoring contradicting evidence,Actively seek disconfirming evidence and consider opposite viewpoints,68.0
+Anchoring Bias,Decision,75,7,Relying too heavily on the first piece of information encountered,Use multiple independent starting points and update systematically,52.5
+Availability Heuristic,Memory,72,6,Overestimating importance of information that comes to mind easily,Seek statistical base rates and consider retrieval factors,43.2
+Overconfidence Effect,Belief,80,8,Excessive confidence in own answers relative to actual accuracy,Calibration training and pre-mortem analysis,64.0
+Sunk Cost Fallacy,Decision,68,7,Continuing investment based on prior investments rather than future value,Focus on marginal costs and benefits only,47.6
+Dunning-Kruger Effect,Belief,62,9,Low ability people overestimate their competence,Seek expert feedback and structured self-assessment,55.8
+Status Quo Bias,Decision,65,6,Preferring current state over change despite potential improvement,Compare all options including change scenarios equally,39.0
+Halo Effect,Perception,70,7,Letting overall impression influence evaluation of specific traits,Evaluate traits independently before aggregating,49.0
+Fundamental Attribution Error,Social,78,7,Attributing others behaviors to disposition over situation,Consider situational factors before judgment,54.6
+Groupthink,Social,82,8,Groups seeking information that confirms shared beliefs,Designate devil advocate and require minority reports,65.6
+Gamblers Fallacy,Probability,60,6,Believing past random events influence future outcomes,Understand independence of events and use base rates,36.0
+Bandwagon Effect,Social,72,7,Doing things because many other people do them,Decide based on evidence before checking others opinions,50.4
+Optimism Bias,Belief,75,6,Overestimating likelihood of positive events and underestimating negatives,Use premortem and consider worst case scenarios,45.0
+Hindsight Bias,Memory,70,6,Seeing past events as having been predictable after they occurred,Record predictions before outcomes are known,42.0
+Survivorship Bias,Analysis,65,8,Focusing on successes that passed selection process,Always examine failed cases and base rate of failure,52.0

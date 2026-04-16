@@ -1,0 +1,122 @@
+[
+  {
+    "bias": "Confirmation Bias",
+    "category": "Belief",
+    "prevalence": 85,
+    "impact_score": 8,
+    "description": "Seeking information that confirms existing beliefs while ignoring contradicting evidence",
+    "mitigation": "Actively seek disconfirming evidence and consider opposite viewpoints"
+  },
+  {
+    "bias": "Anchoring Bias",
+    "category": "Decision",
+    "prevalence": 75,
+    "impact_score": 7,
+    "description": "Relying too heavily on the first piece of information encountered",
+    "mitigation": "Use multiple independent starting points and update systematically"
+  },
+  {
+    "bias": "Availability Heuristic",
+    "category": "Memory",
+    "prevalence": 72,
+    "impact_score": 6,
+    "description": "Overestimating importance of information that comes to mind easily",
+    "mitigation": "Seek statistical base rates and consider retrieval factors"
+  },
+  {
+    "bias": "Overconfidence Effect",
+    "category": "Belief",
+    "prevalence": 80,
+    "impact_score": 8,
+    "description": "Excessive confidence in own answers relative to actual accuracy",
+    "mitigation": "Calibration training and pre-mortem analysis"
+  },
+  {
+    "bias": "Sunk Cost Fallacy",
+    "category": "Decision",
+    "prevalence": 68,
+    "impact_score": 7,
+    "description": "Continuing investment based on prior investments rather than future value",
+    "mitigation": "Focus on marginal costs and benefits only"
+  },
+  {
+    "bias": "Dunning-Kruger Effect",
+    "category": "Belief",
+    "prevalence": 62,
+    "impact_score": 9,
+    "description": "Low ability people overestimate their competence",
+    "mitigation": "Seek expert feedback and structured self-assessment"
+  },
+  {
+    "bias": "Status Quo Bias",
+    "category": "Decision",
+    "prevalence": 65,
+    "impact_score": 6,
+    "description": "Preferring current state over change despite potential improvement",
+    "mitigation": "Compare all options including change scenarios equally"
+  },
+  {
+    "bias": "Halo Effect",
+    "category": "Perception",
+    "prevalence": 70,
+    "impact_score": 7,
+    "description": "Letting overall impression influence evaluation of specific traits",
+    "mitigation": "Evaluate traits independently before aggregating"
+  },
+  {
+    "bias": "Fundamental Attribution Error",
+    "category": "Social",
+    "prevalence": 78,
+    "impact_score": 7,
+    "description": "Attributing others behaviors to disposition over situation",
+    "mitigation": "Consider situational factors before judgment"
+  },
+  {
+    "bias": "Groupthink",
+    "category": "Social",
+    "prevalence": 82,
+    "impact_score": 8,
+    "description": "Groups seeking information that confirms shared beliefs",
+    "mitigation": "Designate devil advocate and require minority reports"
+  },
+  {
+    "bias": "Gamblers Fallacy",
+    "category": "Probability",
+    "prevalence": 60,
+    "impact_score": 6,
+    "description": "Believing past random events influence future outcomes",
+    "mitigation": "Understand independence of events and use base rates"
+  },
+  {
+    "bias": "Bandwagon Effect",
+    "category": "Social",
+    "prevalence": 72,
+    "impact_score": 7,
+    "description": "Doing things because many other people do them",
+    "mitigation": "Decide based on evidence before checking others opinions"
+  },
+  {
+    "bias": "Optimism Bias",
+    "category": "Belief",
+    "prevalence": 75,
+    "impact_score": 6,
+    "description": "Overestimating likelihood of positive events and underestimating negatives",
+    "mitigation": "Use premortem and consider worst case scenarios"
+  },
+  {
+    "bias": "Hindsight Bias",
+    "category": "Memory",
+    "prevalence": 70,
+    "impact_score": 6,
+    "description": "Seeing past events as having been predictable after they occurred",
+    "mitigation": "Record predictions before outcomes are known"
+  },
+  {
+    "bias": "Survivorship Bias",
+    "category": "Analysis",
+    "prevalence": 65,
+    "impact_score": 8,
+    "description": "Focusing on successes that passed selection process",
+    "mitigation": "Always examine failed cases and base rate of failure"
+  }
+]
